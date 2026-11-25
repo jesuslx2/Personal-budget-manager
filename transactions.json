@@ -1,0 +1,42 @@
+[
+    {
+        "id": "OLD001",
+        "date": "2026-11-23",
+        "kind": "expense",
+        "category": "food",
+        "amount": 18.5,
+        "currency": "EUR"
+    },
+    {
+        "id": "OLD002",
+        "date": "2026-11-23",
+        "kind": "expense",
+        "category": "transport",
+        "amount": 5.0,
+        "currency": "EUR"
+    },
+    {
+        "id": "OLD003",
+        "date": "2026-11-25",
+        "kind": "income",
+        "category": "salary",
+        "amount": 100.0,
+        "currency": "EUR"
+    },
+    {
+        "id": "OLD004",
+        "date": "2026-11-25",
+        "kind": "expense",
+        "category": "transport",
+        "amount": 2.0,
+        "currency": "EUR"
+    },
+    {
+        "id": "8508c2d9-d370-4848-861d-3c44d9606316",
+        "date": "2026-11-25",
+        "kind": "expense",
+        "category": "food",
+        "amount": 1.0,
+        "currency": "EUR"
+    }
+]
