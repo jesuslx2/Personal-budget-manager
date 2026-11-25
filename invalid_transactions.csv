@@ -1,0 +1,4 @@
+id,date,kind,category,amount,currency
+BAD001,2026-11-25,expense,food,-5.00,EUR
+BAD002,2026-02-30,expense,food,5.00,EUR
+BAD003,2026-11-25,expense,unknown,5.00,EUR
